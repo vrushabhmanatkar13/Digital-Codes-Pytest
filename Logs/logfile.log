@@ -1,0 +1,179 @@
+2023-11-26 15:36:39,094 : INFO : click : click : ('xpath', "//h4[@class='text-left']")
+2023-11-26 15:36:39,460 : INFO : sendkeys : send keys : ('id', 'emailAddress'), value : complete.user@iccsafe.info
+2023-11-26 15:36:39,638 : INFO : sendkeys : send keys : ('id', 'password'), value : Digital@123
+2023-11-26 15:36:39,708 : INFO : click : click : ('xpath', "//button[@class='v-btn v-btn--block v-btn--contained theme--light v-size--large primary']")
+2023-11-26 15:36:44,819 : INFO : gettext : get text : ('xpath', "//h4[@class='text-left']"), value : Premium Complete
+2023-11-26 15:36:46,220 : INFO : gettext : get text : ('xpath', "//div[@class='v-list-item__title white--text']/h4"), value : Complete User
+2023-11-26 15:36:46,271 : INFO : gettext : get text : ('xpath', "//div[@class='v-list-item__title white--text']/h5"), value : complete.user@iccsafe.info
+2023-11-26 15:36:50,018 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:36:50,834 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="358189AFE07CB386F82D258D56E78C98_element_3743")>
+2023-11-26 15:36:51,100 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="358189AFE07CB386F82D258D56E78C98_element_3912")>
+2023-11-26 15:36:53,178 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="358189AFE07CB386F82D258D56E78C98_element_4065")>
+2023-11-26 15:36:55,576 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="21B8B91C837B511290377CA37E6BB207_element_5001")>
+2023-11-26 15:36:56,324 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="5CE16DDDC753AF66E5017967DAD1DDD1_element_5275")>, value : 2024 International Building Code (IBC)
+BASIC PLUS
+2023-11-26 15:36:56,387 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : BASIC PLUS
+2023-11-26 15:36:56,406 : ERROR : test_Title_Landing_Page[Browse Contents-I-Codes-2024 I-Codes-2024 International Building Code (IBC)-PREMIUM] : Expected: PREMIUM, Found: BASIC PLUS
+2023-11-26 15:36:58,950 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:36:59,686 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="E4E9E2DED4DAA7302E0778E2C3141349_element_6883")>
+2023-11-26 15:36:59,933 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="E4E9E2DED4DAA7302E0778E2C3141349_element_7050")>
+2023-11-26 15:37:01,678 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="E4E9E2DED4DAA7302E0778E2C3141349_element_7204")>
+2023-11-26 15:37:04,489 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="6A90ADCDA1F485E2A743A2E67E9FAD8D_element_8157")>
+2023-11-26 15:37:05,382 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="52BC89485E8876EC28B6E1EE56098BDB_element_8420")>, value : 2021 International Residential Code (IRC)
+BASIC PLUS
+2023-11-26 15:37:05,465 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : BASIC PLUS
+2023-11-26 15:37:05,482 : ERROR : test_Title_Landing_Page[Browse Contents-I-Codes-2021 I-Codes-2021 International Residential Code (IRC)-PREMIUM] : Expected: PREMIUM, Found: BASIC PLUS
+2023-11-26 15:37:11,348 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:37:12,288 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0179983E12F4D6180C76EA03F00FCD7A_element_10405")>
+2023-11-26 15:37:12,534 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0179983E12F4D6180C76EA03F00FCD7A_element_10575")>
+2023-11-26 15:37:14,401 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0179983E12F4D6180C76EA03F00FCD7A_element_10730")>
+2023-11-26 15:37:17,263 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="C8045AF513D35EB0A427D615ABC72C72_element_11696")>
+2023-11-26 15:37:18,247 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="C400EFA540C4C3D70E082D9C45C88823_element_11967")>, value : 2018 International Fire Code (IFC)
+BASIC PLUS
+2023-11-26 15:37:18,340 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : BASIC PLUS
+2023-11-26 15:37:18,347 : ERROR : test_Title_Landing_Page[Browse Contents-I-Codes-2018 I-Codes-2018 International Fire Code (IFC)-PREMIUM] : Expected: PREMIUM, Found: BASIC PLUS
+2023-11-26 15:37:20,708 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:37:21,834 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="A4E85557AFCF45E449A2211DA0A9CF4E_element_13353")>
+2023-11-26 15:37:22,148 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="A4E85557AFCF45E449A2211DA0A9CF4E_element_13528")>
+2023-11-26 15:37:24,859 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="A4E85557AFCF45E449A2211DA0A9CF4E_element_13974")>
+2023-11-26 15:37:28,678 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="13606CD915246D35202EAA8A0A7E0BAD_element_14984")>
+2023-11-26 15:37:36,678 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="BEEED97E072EB3815DAA4B80BBB1A154_element_15203")>, value : 2016 ANSI/AISC 360 Specification for Structural Steel Buildings
+PREMIUM
+2023-11-26 15:37:36,814 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+2023-11-26 15:37:36,910 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
+2023-11-26 15:37:38,544 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:37:39,294 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="1B54B541B1023710348DDD14CF4D2F29_element_16941")>
+2023-11-26 15:37:39,687 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="1B54B541B1023710348DDD14CF4D2F29_element_17129")>
+2023-11-26 15:37:42,098 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="1B54B541B1023710348DDD14CF4D2F29_element_17618")>
+2023-11-26 15:37:51,375 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="931FE9268C8CCBA45352AE0B34B13007_element_18668")>
+2023-11-26 15:37:52,514 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="392FD987F5CA42B2B0D6EBB436797B60_element_18954")>, value : 2023 Florida Building Code, Residential, Eighth Edition
+PREMIUM
+2023-11-26 15:37:52,557 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+2023-11-26 15:37:52,612 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
+2023-11-26 15:37:55,353 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:37:56,124 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="FF6A0BF8D742300C17591F94F4A1E7EB_element_20082")>
+2023-11-26 15:37:56,532 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="FF6A0BF8D742300C17591F94F4A1E7EB_element_20231")>
+2023-11-26 15:37:59,017 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="FF6A0BF8D742300C17591F94F4A1E7EB_element_20401")>
+2023-11-26 15:38:02,446 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="23064287658D9E6F0BF68DBAE588A8A9_element_21355")>
+2023-11-26 15:38:03,433 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0F24D55DA0101B98A5B2E308216F0F87_element_21694")>, value : 2021 IBC Code and Commentary Volume 1 (IBC)
+PREMIUM
+2023-11-26 15:38:03,509 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+2023-11-26 15:38:03,541 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
+2023-11-26 15:38:07,284 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:38:08,128 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="55D6E361C13F89A31B121144C4ACE621_element_23000")>
+2023-11-26 15:38:08,426 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="55D6E361C13F89A31B121144C4ACE621_element_23192")>
+2023-11-26 15:38:11,266 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="55D6E361C13F89A31B121144C4ACE621_element_23353")>
+2023-11-26 15:38:14,304 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="84E57EE62636BE464D3E70EEFD9ADEF9_element_24279")>
+2023-11-26 15:38:15,787 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="AEB71F6550DF71E1B062695898BA0AC1_element_24586")>, value : 2021 IBC FlashCards
+PREMIUM
+2023-11-26 15:38:15,854 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+2023-11-26 15:38:15,909 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
+2023-11-26 15:38:18,420 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:38:19,317 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="8059818D639E0E1A6074253B4CD9FC56_element_26039")>
+2023-11-26 15:38:19,638 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="8059818D639E0E1A6074253B4CD9FC56_element_26242")>
+2023-11-26 15:38:22,420 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="8059818D639E0E1A6074253B4CD9FC56_element_26391")>
+2023-11-26 15:38:24,944 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="BA544D3AAD26356DEB8E33E283186111_element_27359")>
+2023-11-26 15:38:25,952 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="7A03D3F2147C67E2E61D75306165F101_element_27659")>, value : 2022 Chicago Energy Transformation Code
+PREMIUM
+2023-11-26 15:38:26,019 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+2023-11-26 15:38:26,052 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
+2023-11-26 15:38:28,597 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:38:29,366 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="81BC3861C941FEE355C9A9313CE95DEE_element_28800")>
+2023-11-26 15:38:29,703 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="81BC3861C941FEE355C9A9313CE95DEE_element_29010")>
+2023-11-26 15:38:31,852 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="81BC3861C941FEE355C9A9313CE95DEE_element_29127")>
+2023-11-26 15:38:35,002 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="D882F276F373FA5AFC587147BB3A15EE_element_30113")>
+2023-11-26 15:38:36,308 : INFO : gettext_by_visibility : get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="F1AE47D709BE99A9336FAD5F72CA30A6_element_30293")>, value : 1997 Uniform Code for the Abatement of Dangerous Buildings
+PREMIUM
+2023-11-26 15:38:36,367 : INFO : gettext : get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+2023-11-26 15:38:36,417 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
+2023-11-26 15:38:38,650 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:38:39,584 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0B29578992651DEB679813B074B7A79D_element_31516")>
+2023-11-26 15:38:39,835 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0B29578992651DEB679813B074B7A79D_element_31702")>
+2023-11-26 15:38:41,966 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0B29578992651DEB679813B074B7A79D_element_31856")>
+2023-11-26 15:38:45,851 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="6932556F0F22450D834FCB22A31D0F79_element_32906")>
+2023-11-26 15:38:49,282 : INFO : gettext : get text : ('xpath', "//div[@class='v-select__selections']/p"), value : Second Version: Sep 2021
+2023-11-26 15:38:49,507 : INFO : click : click : ('xpath', "//div[@class='v-select__selections']/p")
+2023-11-26 15:38:49,867 : INFO : gettext : get text : ('xpath', "//div[@aria-selected='true']//div[@class='col']"), value : Second Version: Sep 2021
+2023-11-26 15:38:49,907 : INFO : gettext : get text : ('xpath', "(//div[@aria-selected='false']//div[@class='col'])[1]"), value : First Version: Oct 2020
+2023-11-26 15:38:54,497 : INFO : click : click : ('xpath', "(//div[@aria-selected='false']//div[@class='col'])[1]")
+2023-11-26 15:38:56,447 : INFO : gettext : get text : ('xpath', "//div[@class='v-select__selections']/p"), value : First Version: Oct 2020
+2023-11-26 15:38:59,733 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:39:00,624 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="136D95168E18EDDD44AA2865F87A260F_element_35598")>
+2023-11-26 15:39:00,878 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="136D95168E18EDDD44AA2865F87A260F_element_35776")>
+2023-11-26 15:39:03,013 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="136D95168E18EDDD44AA2865F87A260F_element_35930")>
+2023-11-26 15:39:07,138 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="C408B4D2E893AFDCACFFAFB96BBDDC53_element_36933")>
+2023-11-26 15:39:13,962 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="C4C79990628D567B0F4EC294B6949CFD_element_38050")>
+2023-11-26 15:39:20,881 : INFO : gettext : get text : ('xpath', "//h1[@class='chapter']"), value : CHAPTER 2 DEFINITIONS
+2023-11-26 15:39:20,892 : ERROR : test_NavigateTo_Chapter_Section_Subsection_from_TOC : Expected: CHAPTER2DEFINITIONS, Found: CHAPTER 2 DEFINITIONS
+2023-11-26 15:39:23,125 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:39:24,030 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="72BA7CD6557207B89740C7824660A227_element_60700")>
+2023-11-26 15:39:24,285 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="72BA7CD6557207B89740C7824660A227_element_60886")>
+2023-11-26 15:39:26,392 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="72BA7CD6557207B89740C7824660A227_element_61040")>
+2023-11-26 15:39:29,793 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="CEAF0F5D1BED9690DC244AB774843E9B_element_62046")>
+2023-11-26 15:39:37,795 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="FB22F3648C72D7A92D58C6EFFED4FC1C_element_63163")>
+2023-11-26 15:39:44,174 : INFO : click : click : ('xpath', "//div[@style='display: block;']/i[text()=' border_color']")
+2023-11-26 15:39:44,533 : INFO : sendkeys : send keys : ('xpath', "//div[@class='ql-editor ql-blank']"), value : Notes From Chapter Level
+2023-11-26 15:39:44,633 : INFO : click : click : ('xpath', "//span[text()='New Tag']")
+2023-11-26 15:39:44,848 : INFO : sendkeys : send keys : ('xpath', "//input[@placeholder='Tag Name']"), value : Premium
+2023-11-26 15:39:44,932 : INFO : click : click : ('xpath', "//div[@style='z-index: 204;']//span[text()='Save']")
+2023-11-26 15:39:47,154 : INFO : gettext : get text : ('xpath', "//div[@class='v-select__selections']/span"), value : Premium
+2023-11-26 15:39:47,230 : INFO : click : click : ('xpath', "//span[text()='Save']")
+2023-11-26 15:39:48,262 : INFO : gettext : get text : ('xpath', "//div[@class='caption cl description']/p"), value : Notes From Chapter Level
+2023-11-26 15:39:48,318 : INFO : gettext : get text : ('xpath', "(//h5[@class='font-weight-regular left'])[1]"), value : Project Tag: Premium
+2023-11-26 15:39:48,365 : INFO : gettext : get text : ('xpath', "(//h5[@class='font-weight-regular left'])[2]"), value : Created By: Complete User (complete.user@iccsafe.info)
+2023-11-26 15:39:48,461 : INFO : click : click : ('xpath', "//div[contains(text(),'Notes')]")
+2023-11-26 15:39:49,452 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0']/a"), value : CHAPTER 2 DEFINITIONS
+2023-11-26 15:39:49,545 : INFO : click : click : ('xpath', "//div[@class='container']//div[@class='v-input__icon v-input__icon--append']")
+2023-11-26 15:39:51,454 : INFO : click : click : ('xpath', "//span[contains(text(),'Manage Notes')]")
+2023-11-26 15:39:52,404 : INFO : gettext : get text : ('xpath', "//div[@class='title-card-hover']//a[@class='accent--text']"), value : 2021 International Building Code (IBC)
+2023-11-26 15:39:52,541 : INFO : click : click : ('xpath', "//div[@class='title-card-hover']//a[@class='accent--text']")
+2023-11-26 15:39:52,571 : INFO : gettext : get text : ('xpath', "//div[@class='v-card__title']/a"), value : CHAPTER 2 DEFINITIONS
+2023-11-26 15:39:52,643 : INFO : gettext : get text : ('xpath', "//p[@class='mt-2 ml-1']"), value : Notes From Chapter Level
+2023-11-26 15:39:52,698 : INFO : gettext : get text : ('xpath', "//div[@class='d-flex']//h5[1]"), value : Created By: Complete User
+2023-11-26 15:39:52,750 : INFO : gettext : get text : ('xpath', "//div[@class='d-flex']//h5[2]"), value : Project Tag: Premium
+2023-11-26 15:39:52,953 : INFO : click : click : ('xpath', "//span[contains(text(),'Remove')]")
+2023-11-26 15:39:53,019 : INFO : click : click : ('xpath', "//span[text()='Remove']")
+2023-11-26 15:39:54,719 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:39:55,598 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="8816E8D7095283EA9F716A2B61FD907C_element_88282")>
+2023-11-26 15:39:55,849 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="8816E8D7095283EA9F716A2B61FD907C_element_88460")>
+2023-11-26 15:39:57,501 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="8816E8D7095283EA9F716A2B61FD907C_element_88614")>
+2023-11-26 15:39:59,525 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="0780136262B176333C12D9904F7F57B6_element_89495")>
+2023-11-26 15:40:06,874 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="F7B7207F843DC573864E5DEA197D4934_element_90597")>
+2023-11-26 15:40:10,485 : INFO : click : click : ('xpath', "//section[@class='chapter']/div/i")
+2023-11-26 15:40:11,040 : INFO : click : click : ('xpath', "//div[@style='display: block;']/i[text()='bookmark_border']")
+2023-11-26 15:40:11,374 : INFO : sendkeys : send keys : ('xpath', "//div[@class='ql-editor ql-blank']"), value : Bookmark From Chapter Level
+2023-11-26 15:40:12,472 : INFO : click : click : ('xpath', "//div[@class='v-select__selections']/span")
+2023-11-26 15:40:12,673 : INFO : gettext : get text : ('xpath', "//div[@class='v-select__selections']/span"), value : Premium
+2023-11-26 15:40:12,751 : INFO : click : click : ('xpath', "//span[text()='Save']")
+2023-11-26 15:40:13,833 : INFO : gettext : get text : ('xpath', "//div[@class='caption cl description']/p"), value : Bookmark From Chapter Level
+2023-11-26 15:40:13,864 : INFO : gettext : get text : ('xpath', "(//h5[@class='font-weight-regular left'])[1]"), value : Project Tag: Premium
+2023-11-26 15:40:13,917 : INFO : gettext : get text : ('xpath', "(//h5[@class='font-weight-regular left'])[2]"), value : Created By: Complete User (complete.user@iccsafe.info)
+2023-11-26 15:40:14,005 : INFO : click : click : ('xpath', "//div[contains(text(),'Notes')]")
+2023-11-26 15:40:14,518 : INFO : gettext : get text : ('xpath', "//p[@class='mb-0']/a"), value : CHAPTER 2 DEFINITIONS
+2023-11-26 15:40:14,609 : INFO : click : click : ('xpath', "//div[@class='container']//div[@class='v-input__icon v-input__icon--append']")
+2023-11-26 15:40:16,452 : INFO : click : click : ('xpath', "//span[contains(text(),'Manage Notes')]")
+2023-11-26 15:40:17,080 : INFO : gettext : get text : ('xpath', "//div[@class='title-card-hover']//a[@class='accent--text']"), value : 2021 International Building Code (IBC)
+2023-11-26 15:40:17,317 : INFO : click : click : ('xpath', "//div[@class='title-card-hover']//a[@class='accent--text']")
+2023-11-26 15:40:17,658 : INFO : gettext : get text : ('xpath', "//div[@class='v-card__title']/a"), value : CHAPTER 2 DEFINITIONS
+2023-11-26 15:40:17,684 : INFO : gettext : get text : ('xpath', "//p[@class='mt-2 ml-1']"), value : Bookmark From Chapter Level
+2023-11-26 15:40:17,717 : INFO : gettext : get text : ('xpath', "//div[@class='d-flex']//h5[1]"), value : Created By: Complete User
+2023-11-26 15:40:17,784 : INFO : gettext : get text : ('xpath', "//div[@class='d-flex']//h5[2]"), value : Project Tag: Premium
+2023-11-26 15:40:17,934 : INFO : click : click : ('xpath', "//span[contains(text(),'Remove')]")
+2023-11-26 15:40:18,556 : INFO : click : click : ('xpath', "//span[text()='Remove']")
+2023-11-26 15:40:20,468 : INFO : click : click : ('xpath', "//span[contains(text(),'Menu')]")
+2023-11-26 15:40:21,374 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="156895A72B75E6DD98BCC5ECA90B23DC_element_115824")>
+2023-11-26 15:40:21,625 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="156895A72B75E6DD98BCC5ECA90B23DC_element_116010")>
+2023-11-26 15:40:23,215 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="156895A72B75E6DD98BCC5ECA90B23DC_element_116164")>
+2023-11-26 15:40:25,593 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="259C24C9FD304D87EF9A273C814CBB1C_element_117082")>
+2023-11-26 15:40:32,454 : INFO : click_by_visibility : click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="B05994A0AFDA50BED3260F9D72F43457_element_118237")>
+2023-11-26 15:40:38,287 : INFO : click : click : ('xpath', "//section[@class='chapter']/div/i")
+2023-11-26 15:40:38,760 : INFO : click : click : ('xpath', "//div[@style='display: block;']/i[text()='link']")
+2023-11-26 15:40:39,865 : INFO : click : click : ('xpath', "//span[contains(text(),'Copy URL')]")
+2023-11-26 15:40:39,913 : INFO : gettext : get text : ('xpath', "//div[@class='v-alert__content']"), value : Link copied to clipboard.
+2023-11-26 15:40:40,015 : INFO : click : click : ('xpath', "//button[@data-qa='share-section-modal-close']")
+2023-11-26 15:40:40,142 : INFO : click : click : ('xpath', "//div[@style='display: block;']/i[text()='link']")
+2023-11-26 15:40:40,422 : INFO : sendkeys : send keys : ('xpath', "//input[@data-qa='share-section-modal-email-0']"), value : test.user@iccsafe.info
+2023-11-26 15:40:40,508 : INFO : click : click : ('xpath', "//button[@data-qa='share-section-modal-add-more']")
+2023-11-26 15:40:40,628 : INFO : click : click : ('xpath', "//button[@data-qa='share-section-modal-remove-1']")
+2023-11-26 15:40:40,708 : INFO : click : click : ('xpath', "//button[@data-qa='share-section-modal-share']")
+2023-11-26 15:40:41,202 : INFO : gettext : get text : ('xpath', "//div[@class='v-alert__content']"), value : Section link shared successfully!

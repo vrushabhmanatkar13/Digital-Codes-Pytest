@@ -1,0 +1,9 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="B90166938B03315856C0BB3BECE0CE10_element_17270")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="B90166938B03315856C0BB3BECE0CE10_element_17458")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="B90166938B03315856C0BB3BECE0CE10_element_17947")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="5AE63DE585351995117B2287140B597E_element_18990")>
+[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="8BCD2103CF5E646FCA563DB515BBF203_element_19302")>, value : 2023 Florida Building Code, Residential, Eighth Edition
+PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title

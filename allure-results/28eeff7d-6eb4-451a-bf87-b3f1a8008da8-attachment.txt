@@ -1,0 +1,9 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="81BC3861C941FEE355C9A9313CE95DEE_element_28800")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="81BC3861C941FEE355C9A9313CE95DEE_element_29010")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="81BC3861C941FEE355C9A9313CE95DEE_element_29127")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="D882F276F373FA5AFC587147BB3A15EE_element_30113")>
+[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="F1AE47D709BE99A9336FAD5F72CA30A6_element_30293")>, value : 1997 Uniform Code for the Abatement of Dangerous Buildings
+PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title

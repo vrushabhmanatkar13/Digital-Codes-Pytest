@@ -1,0 +1,28 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="FEDF1F73061D6018D490326A60F2F6E3_element_62184")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="FEDF1F73061D6018D490326A60F2F6E3_element_62362")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="FEDF1F73061D6018D490326A60F2F6E3_element_62516")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="251797A3BCCB5115738D0AF9C9089964_element_63534")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="AE501611AF2203EDB9FF426D7440D2BD_element_64568")>
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[@style='display: block;']/i[text()=' border_color']")
+[32mINFO    [0m sendkeys:BaseClass.py:77 send keys : ('xpath', "//div[@class='ql-editor ql-blank']"), value : Notes From Chapter Level
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[text()='New Tag']")
+[32mINFO    [0m sendkeys:BaseClass.py:77 send keys : ('xpath', "//input[@placeholder='Tag Name']"), value : Premium
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[@style='z-index: 204;']//span[text()='Save']")
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//div[@class='v-select__selections']/span"), value : Premium
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[text()='Save']")
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//div[@class='caption cl description']/p"), value : Notes From Chapter Level
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "(//h5[@class='font-weight-regular left'])[1]"), value : Project Tag: Premium
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "(//h5[@class='font-weight-regular left'])[2]"), value : Created By: Complete User (complete.user@iccsafe.info)
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[contains(text(),'Notes')]")
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mb-0']/a"), value : CHAPTER 2 DEFINITIONS
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[@class='container']//div[@class='v-input__icon v-input__icon--append']")
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Manage Notes')]")
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//div[@class='title-card-hover']//a[@class='accent--text']"), value : 2021 International Building Code (IBC)
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[@class='title-card-hover']//a[@class='accent--text']")
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//div[@class='v-card__title']/a"), value : CHAPTER 2 DEFINITIONS
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mt-2 ml-1']"), value : Notes From Chapter Level
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//div[@class='d-flex']//h5[1]"), value : Created By: Complete User
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//div[@class='d-flex']//h5[2]"), value : Project Tag: Premium
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Remove')]")
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[text()='Remove']")

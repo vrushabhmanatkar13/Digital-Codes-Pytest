@@ -1,0 +1,9 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="A4E85557AFCF45E449A2211DA0A9CF4E_element_13353")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="A4E85557AFCF45E449A2211DA0A9CF4E_element_13528")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="A4E85557AFCF45E449A2211DA0A9CF4E_element_13974")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="13606CD915246D35202EAA8A0A7E0BAD_element_14984")>
+[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="BEEED97E072EB3815DAA4B80BBB1A154_element_15203")>, value : 2016 ANSI/AISC 360 Specification for Structural Steel Buildings
+PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title

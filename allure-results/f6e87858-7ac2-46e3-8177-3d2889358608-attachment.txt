@@ -1,0 +1,9 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="CEB5B6EF126C612132820A9936E4174F_element_10373")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="CEB5B6EF126C612132820A9936E4174F_element_10551")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="CEB5B6EF126C612132820A9936E4174F_element_10706")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="623835887255897EC3613744BE298B4D_element_11709")>
+[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="37970F7B226CE0993A6D9C96A7CBEC6F_element_11989")>, value : 2018 International Fire Code (IFC)
+PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title

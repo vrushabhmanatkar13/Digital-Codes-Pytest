@@ -1,0 +1,10 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="15A27DF3761E47E74B9214CC270FE724_element_89828")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="15A27DF3761E47E74B9214CC270FE724_element_90006")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="15A27DF3761E47E74B9214CC270FE724_element_90160")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="E74FB8F0D0319BF99C7D867898C923A9_element_91152")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="72ADA895810D346BE1FAE5D8F470C1DF_element_91810")>
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//section[@class='chapter']/div/i")
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[@style='display: block;']/i[text()='bookmark_border']")
+[32mINFO    [0m sendkeys:BaseClass.py:77 send keys : ('xpath', "//div[@class='ql-editor ql-blank']"), value : Bookmark From Chapter Level
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//div[@class='v-select__selections']/span")

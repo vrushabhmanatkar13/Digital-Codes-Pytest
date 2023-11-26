@@ -1,0 +1,8 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="136D95168E18EDDD44AA2865F87A260F_element_35598")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="136D95168E18EDDD44AA2865F87A260F_element_35776")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="136D95168E18EDDD44AA2865F87A260F_element_35930")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="C408B4D2E893AFDCACFFAFB96BBDDC53_element_36933")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="C4C79990628D567B0F4EC294B6949CFD_element_38050")>
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='chapter']"), value : CHAPTER 2 DEFINITIONS
+[1m[31mERROR   [0m test_NavigateTo_Chapter_Section_Subsection_from_TOC:BaseClass.py:106 Expected: CHAPTER2DEFINITIONS, Found: CHAPTER 2 DEFINITIONS

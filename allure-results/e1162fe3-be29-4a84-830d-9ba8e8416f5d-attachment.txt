@@ -1,0 +1,9 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="E4E9E2DED4DAA7302E0778E2C3141349_element_6883")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="E4E9E2DED4DAA7302E0778E2C3141349_element_7050")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="E4E9E2DED4DAA7302E0778E2C3141349_element_7204")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="6A90ADCDA1F485E2A743A2E67E9FAD8D_element_8157")>
+[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="52BC89485E8876EC28B6E1EE56098BDB_element_8420")>, value : 2021 International Residential Code (IRC)
+BASIC PLUS
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : BASIC PLUS
+[1m[31mERROR   [0m test_Title_Landing_Page[Browse Contents-I-Codes-2021 I-Codes-2021 International Residential Code (IRC)-PREMIUM]:BaseClass.py:106 Expected: PREMIUM, Found: BASIC PLUS

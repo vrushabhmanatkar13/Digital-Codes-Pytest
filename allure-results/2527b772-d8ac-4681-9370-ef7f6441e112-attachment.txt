@@ -1,0 +1,5 @@
+[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="1b8b41278b7ee1619d415c7b620a7337", element="5E8BAC32B1864EDDEADDB1194662BA81_element_5709")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="1b8b41278b7ee1619d415c7b620a7337", element="5E8BAC32B1864EDDEADDB1194662BA81_element_5876")>
+[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="1b8b41278b7ee1619d415c7b620a7337", element="5E8BAC32B1864EDDEADDB1194662BA81_element_6032")>
+[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='primary--text display-1']"), value : 2021 I-Codes
