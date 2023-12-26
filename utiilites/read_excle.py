@@ -91,6 +91,3 @@ def get_data_by_key(sheet_name, testcase_name, row_num):
                     break
                 final_data[key] = data
     return final_data
-
-
-print(__file__+"+++++++++++++++++++++++++++++=")
