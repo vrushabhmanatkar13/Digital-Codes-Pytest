@@ -1,9 +1,0 @@
-[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="E1832B2080AB36F19632D0715E3363BE_element_6903")>
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="E1832B2080AB36F19632D0715E3363BE_element_7037")>
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="E1832B2080AB36F19632D0715E3363BE_element_7243")>
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="D3C34675586297E9983DB6A960EC971A_element_8261")>
-[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="344c57431e92c50ff81e7148894f7fb7", element="AE43E93E03488A276A597978B5F26FF2_element_8516")>, value : 2021 International Residential Code (IRC)
-PREMIUM
-[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : PREMIUM
-[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//p[@class='mb-0 primary--text']"), value : You have an active premium subscription to access this title
