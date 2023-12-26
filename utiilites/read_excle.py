@@ -1,8 +1,8 @@
 import os.path
-from typing import final, Final
+from typing import Final
 
 import openpyxl
-import pytest
+
 
 
 # install openpyxl package
@@ -10,6 +10,11 @@ import pytest
 
 def load_excel_file(excel_path):
     global workbook
+    # Get absolute path of dir - os.path.abspath()
+    # To join path - os.path.join()
+    #  To get directory name from the given (Module) path -  os.path.dirname()
+    # __file__ - it is variable to get current module path
+    # '..' - it represents parent dir
     path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     workbook = openpyxl.load_workbook(path + excel_path)
 

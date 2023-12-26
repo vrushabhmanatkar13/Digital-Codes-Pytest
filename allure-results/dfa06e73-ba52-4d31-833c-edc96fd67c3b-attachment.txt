@@ -1,9 +1,0 @@
-[32mINFO    [0m click:BaseClass.py:50 click : ('xpath', "//span[contains(text(),'Menu')]")
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="358189AFE07CB386F82D258D56E78C98_element_3743")>
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="358189AFE07CB386F82D258D56E78C98_element_3912")>
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="358189AFE07CB386F82D258D56E78C98_element_4065")>
-[32mINFO    [0m click_by_visibility:BaseClass.py:58 click : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="21B8B91C837B511290377CA37E6BB207_element_5001")>
-[32mINFO    [0m gettext_by_visibility:BaseClass.py:94 get text : <selenium.webdriver.remote.webelement.WebElement (session="44c9bf4a9cef6ef378fc86925b19a140", element="5CE16DDDC753AF66E5017967DAD1DDD1_element_5275")>, value : 2024 International Building Code (IBC)
-BASIC PLUS
-[32mINFO    [0m gettext:BaseClass.py:85 get text : ('xpath', "//h1[@class='font-weight-regular']/span"), value : BASIC PLUS
-[1m[31mERROR   [0m test_Title_Landing_Page[Browse Contents-I-Codes-2024 I-Codes-2024 International Building Code (IBC)-PREMIUM]:BaseClass.py:106 Expected: PREMIUM, Found: BASIC PLUS

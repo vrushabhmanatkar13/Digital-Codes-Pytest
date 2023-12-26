@@ -13,16 +13,7 @@ config = getConfig("./Configuration/config.ini")
 implicit_wait = float(config.get('waits', 'implicit_wait'))
 zoom = config.get('zoom', 'value')
 
-@allure.title("Get Enviroment url")
-@pytest.fixture(scope="package", autouse=True)
-def get_Environment(request):
-    environment = request.config.getoption("--env")
-    global url
-    if environment == None:
-        url = config.get('url', environment)
-    else:
-        url = config.get('url', 'stage')
-    return url
+
 
 def pytest_addoption(parser):
     """
@@ -52,6 +43,18 @@ def Set_log_file():
     if os.path.exists(file):
         os.remove(file)
     yield set_logger(file)
+
+
+@allure.title("Get Enviroment url")
+@pytest.fixture(scope="package", autouse=True)
+def get_Environment(request):
+    environment = request.config.getoption("--env")
+    global url
+    if environment == None:
+        url = config.get('url', environment)
+    else:
+        url = config.get('url', 'stage')
+    return url
 
 
 @allure.title("Setup Browser and Tear Down")

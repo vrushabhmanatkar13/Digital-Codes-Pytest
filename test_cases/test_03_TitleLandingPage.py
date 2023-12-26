@@ -88,7 +88,7 @@ class Test_TitleLandingPage(TestBase):
         """
         Assertion for Chapter content, title heading name, chapter heading name is displayed
         """
-        BaseClass.assert_equals("CHAPTER2DEFINITIONS", result, test_logger)
+        BaseClass.assert_equals("CHAPTER 2 DEFINITIONS", result, test_logger)
         BaseClass.assert_equals("2021 International Building Code (IBC)",self.contentpage.get_Title_name_from_content(), test_logger)
         BaseClass.assert_equals("PREMIUM", self.contentpage.get_tag_from_content(), test_logger)
         BaseClass.assert_equals("CHAPTER 2 DEFINITIONS", self.contentpage.get_chapter_name_from_content(), test_logger)
